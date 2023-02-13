@@ -1,3 +1,3 @@
-//programmer:Andrew Krusniak 
-//Date:2.6.2023
-//project:sphero Bolt 
+//programmer team:Andrew KrusniaK Jacob Harback 
+//Date:2.13.2023
+//project:sphero Bolt Comp 
